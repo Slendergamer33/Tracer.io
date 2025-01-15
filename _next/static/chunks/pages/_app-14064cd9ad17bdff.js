@@ -1544,10 +1544,6 @@
                                     media: "(max-width:767px)",
                                     srcSet: "/assets/images/background-small.webp",
                                     type: "image/webp"
-                                }), (0, $.jsx)("img", {
-                                    className: "_1hhzp0i2",
-                                    src: "/assets/images/background-small.jpg",
-                                    alt: "Background"
                                 })]
                             })
                         }), (0, $.jsx)(_.LH, {
