@@ -920,7 +920,7 @@
                                     className: "czken66",
                                     children: [(0, a.jsxs)(L.fS, {
                                         as: "a",
-                                        href: "https://t.me/tracer.io",
+                                        href: "https://t.me/tracer.i0portal",
                                         target: "Telegram",
                                         className: (0, L.cx)($.pC, ev, eb),
                                         animated: [(0, L.aa)("y", "1rem", 0, 0)],
@@ -1006,7 +1006,7 @@
                                         onRight: () => s("/docs"),
                                         children: "About"
                                     }), (0, a.jsx)(eS, {
-                                        href: "https://t.me/tracerio",
+                                        href: "https://t.me/traceri0portal",
                                         active: n.startsWith("/"),
                                         animated: (0, L.aa)("x", "-1rem", 0),
                                         onClose: l,
