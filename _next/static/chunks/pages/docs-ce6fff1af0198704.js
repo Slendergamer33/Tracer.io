@@ -45,13 +45,13 @@
                             children: [
                                 (0, t.jsx)("span", {
                                     className: "bold-large",
-                                    children: "Tracer io, a trader alert system, begins with research and team setup in the first two months, focusing on understanding market demand, studying competitors, and assembling a small team of developers, designers, and marketers."
+                                    children: "PHASE 1 - "
                                 }),
                                 (0, t.jsx)("a", {
                                     href: "",
                                     target: "_blank",
-                                    className: "jsx-9b41076cdfcf81f",
-                                    children: ""
+                                    className: "bold-large",
+                                    children: "Tracer io, a trader alert system, begins with research and team setup in the first two months, focusing on understanding market demand, studying competitors, and assembling a small team of developers, designers, and marketers."
                                 })
                             ]
                         })
@@ -63,13 +63,13 @@
                                 children: [
                                     (0, t.jsx)("span", {
                                         className: "bold-large",
-                                        children: "Adding interface with the selected users' top buys in the last 24 hours."
+                                        children: "PHASE 2 - "
                                     }),
                                     (0, t.jsx)("a", {
                                         href: "",
                                         target: "_blank",
-                                        className: "jsx-9b41076cdfcf81f",
-                                        children: ""
+                                        className: "bold-large",
+                                        children: "Adding interface with the selected users' top buys in the last 24 hours."
                                     })
                                 ]
                             })
@@ -78,32 +78,35 @@
                     (0, t.jsx)(o.LH, {
                         children: (0, t.jsx)(o.fS, {
                             as: "blockquote",
-                            children: (0, t.jsxs)(o.xv, {
-                                children: [
-                                    (0, t.jsx)("a", {
-                                        href: "",
-                                        target: "_blank",
-                                        className: "jsx-9b41076cdfcf81f",
-                                        children: (0, t.jsx)("span", {
-                                            className: "bold-large",
-                                            children: "Adding tracing with up to 10 wallets for free!"
-                                        })
+                            children: [
+                                (0, t.jsx)("span", {
+                                    className: "bold-large",
+                                    children: "PHASE 3 - "
+                                }),
+                                (0, t.jsx)("a", {
+                                    href: "",
+                                    target: "_blank",
+                                    className: "jsx-9b41076cdfcf81f",
+                                    children: (0, t.jsx)("a", {
+                                        className: "bold-large",
+                                        children: "Adding tracing with up to 10 wallets for free!"
                                     })
-                                ]
+                                })
+                            ]
+                                
                             })
-                        })
-                    }),
+                        }),
                     (0, t.jsx)(o.LH, {
                         children: (0, t.jsxs)(o.xv, {
                             children: [
                                 (0, t.jsx)("span", {
+                                    className: "bold-large",
+                                    children: "PHASE 4 - "
+                                }),
+                                (0, t.jsx)("a", {
+                                    href: "",
                                     className: "bold-large",
                                     children: "Adding a buy/sell bot"
-                                }),
-                                (0, t.jsx)("a", {
-                                    href: "",
-                                    className: "jsx-9b41076cdfcf81f",
-                                    children: ""
                                 })
                             ]
                         })
@@ -113,23 +116,28 @@
                             children: [
                                 (0, t.jsx)("span", {
                                     className: "bold-large",
-                                    children: "Adding sniping for the selected wallets that you are tracing"
+                                    children: "PHASE 5 - "
                                 }),
                                 (0, t.jsx)("a", {
                                     href: "",
-                                    className: "jsx-9b41076cdfcf81f",
-                                    children: ""
+                                    className: "bold-large",
+                                    children: "Adding sniping for the selected wallets that you are tracing"
                                 })
                             ]
                         })
                     }),
                     (0, t.jsx)(o.LH, {
-                        children: (0, t.jsx)(o.xv, {
-                            children: (0, t.jsx)("span", {
+                        children: [
+                            (0, t.jsx)("span", {
+                                className: "bold-large",
+                                children: "PHASE 6 - "
+                            }),
+                            (0, t.jsx)("a", {
+                                href: "",
                                 className: "bold-large",
                                 children: "Adding intercepting wallet buys like mevbot"
                             })
-                        })
+                        ]
                     }), (0, t.jsx)("nav", {
                         style: {
                             marginTop: "3rem",
