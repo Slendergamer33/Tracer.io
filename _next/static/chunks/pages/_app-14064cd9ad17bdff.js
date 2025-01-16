@@ -941,7 +941,7 @@
                                     }),  (0, a.jsxs)(L.fS, {
                                         as: "a",
                                         href: "https://x.com/traceri0?s=21",
-                                        target: "twitter",
+                                        target: "Twitter",
                                         className: (0, L.cx)($.pC, ev, eb),
                                         animated: [(0, L.aa)("y", "1rem", 0, 0)],
                                         children: [(0, a.jsx)(Y, {}), (0, a.jsx)("span", {
