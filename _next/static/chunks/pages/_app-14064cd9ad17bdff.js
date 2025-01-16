@@ -920,8 +920,8 @@
                                     className: "czken66",
                                     children: [(0, a.jsxs)(L.fS, {
                                         as: "a",
-                                        href: "https://t.me/tracer.io",
-                                        target: "Telegram",
+                                        href: "https://t.me/traceri0portal",
+                                        target: "Telegram Portal",
                                         className: (0, L.cx)($.pC, ev, eb),
                                         animated: [(0, L.aa)("y", "1rem", 0, 0)],
                                         children: [(0, a.jsx)(U, {}), (0, a.jsx)("span", {
@@ -930,8 +930,8 @@
                                         })]
                                     }), (0, a.jsxs)(L.fS, {
                                         as: "a",
-                                        href: "https://github.com/Slendergamer33",
-                                        target: "github",
+                                        href: "https://t.me/tracer_solana_bot",
+                                        target: "Telegram Bot Chat",
                                         className: (0, L.cx)($.pC, ev, eb),
                                         animated: [(0, L.aa)("y", "1rem", 0, 0)],
                                         children: [(0, a.jsx)(G, {}), (0, a.jsx)("span", {
@@ -1006,11 +1006,11 @@
                                         onRight: () => s("/docs"),
                                         children: "About"
                                     }), (0, a.jsx)(eS, {
-                                        href: "https://t.me/tracerio",
+                                        href: "https://t.me/traceri0portal",
                                         active: n.startsWith("/"),
                                         animated: (0, L.aa)("x", "-1rem", 0),
                                         onClose: l,
-                                        children: "Telegram Community"
+                                        children: "Telegram Portal"
                                     }), (0, a.jsx)(eS, {
                                         href: "https://t.me/tracer_the_bot",
                                         active: n.startsWith("/"),
