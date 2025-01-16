@@ -1131,7 +1131,7 @@
                                 duration: {
                                     stagger: .03
                                 },
-                                children: [(0, a.jsx)(L.LH, {
+                               children: [(0, a.jsx)(L.LH, {
                                     children: (0, a.jsx)(_, {
                                         className: $.$6,
                                         animated: p
@@ -1143,24 +1143,25 @@
                                             className: eC,
                                             animated: p,
                                             children: (0, a.jsx)("a", {
-                                                href: "https://t.me/traceri0portal",
+                                                href: "https://t.me/tracerio",
                                                 target: "Telegram",
-                                                title: "Telegram Portal",
+                                                title: "Telegram",
                                                 children: (0, a.jsx)(U, {})
                                             })
                                         })
-                                    }), (0, a.jsx)(L.LH, {
+                                    }),,  (0, a.jsx)(L.LH, {
                                         children: (0, a.jsx)(N.sN, {
                                             className: eC,
                                             animated: p,
                                             children: (0, a.jsx)("a", {
-                                                href: "https://t.me/tracer_solana_bot",
+                                                href: "https://t.me/tracer_solana_portal",
                                                 target: "Telegram",
                                                 title: "Telegram Bot",
                                                 children: (0, a.jsx)(U, {})
                                             })
                                         })
-                                    }),  (0, a.jsx)(L.LH, {
+                                    }),
+                                    (0, a.jsx)(L.LH, {
                                         children: (0, a.jsx)(N.sN, {
                                             className: eC,
                                             animated: p,
@@ -1173,7 +1174,6 @@
                                         })
                                     })]
                                 }), (0, a.jsxs)(N.v2, {
-                                    children: [(0, a.jsx)(L.LH, {
                                         children: (0, a.jsx)(N.sN, {
                                             className: (0, L.cx)(eC, $.$6),
                                             animated: p,
