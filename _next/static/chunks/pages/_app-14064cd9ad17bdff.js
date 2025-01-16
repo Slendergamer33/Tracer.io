@@ -986,12 +986,6 @@
                                         active: n.startsWith(""),
                                         animated: (0, L.aa)("x", "1rem", 0),
                                         onClose: l,
-                                        children: "Github"
-                                    }), (0, a.jsx)(eS, {
-                                        href: "",
-                                        active: n.startsWith(""),
-                                        animated: (0, L.aa)("x", "1rem", 0),
-                                        onClose: l,
                                         children: "Twitter"
                                     })]
                                 }), (0, a.jsxs)(L.LH, {
@@ -1153,21 +1147,10 @@
                                             className: eC,
                                             animated: p,
                                             children: (0, a.jsx)("a", {
-                                                href: "https://t.me/tracerio",
+                                                href: "https://t.me/traceri0portal",
                                                 target: "Telegram",
                                                 title: "Telegram",
                                                 children: (0, a.jsx)(U, {})
-                                            })
-                                        })
-                                    }), (0, a.jsx)(L.LH, {
-                                        children: (0, a.jsx)(N.sN, {
-                                            className: eC,
-                                            animated: p,
-                                            children: (0, a.jsx)("a", {
-                                                href: "https://github.com/Slendergamer33",
-                                                target: "github",
-                                                title: "Go to GitHub",
-                                                children: (0, a.jsx)(G, {})
                                             })
                                         })
                                     }), (0, a.jsx)(L.LH, {
