@@ -1149,11 +1149,21 @@
                                             children: (0, a.jsx)("a", {
                                                 href: "https://t.me/traceri0portal",
                                                 target: "Telegram",
-                                                title: "Telegram",
+                                                title: "Telegram Portal",
                                                 children: (0, a.jsx)(U, {})
                                             })
                                         })
-                                    }), (0, a.jsx)(L.LH, {
+                                    }),(0, a.jsx)(L.LH, {
+                                        children: (0, a.jsx)(N.sN, {
+                                            className: eC,
+                                            animated: p,
+                                            children: (0, a.jsx)("a", {
+                                                href: "https://x.com/tracer_solana_portal",
+                                                target: "twitter",
+                                                title: "Telegram Bot Chat",
+                                                children: (0, a.jsx)(Y, {})
+                                            })
+                                        }), (0, a.jsx)(L.LH, {
                                         children: (0, a.jsx)(N.sN, {
                                             className: eC,
                                             animated: p,
