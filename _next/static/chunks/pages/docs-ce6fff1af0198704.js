@@ -86,7 +86,7 @@
                                         className: "jsx-9b41076cdfcf81f",
                                         children: (0, t.jsx)("span", {
                                             className: "bold-large",
-                                            children: "Adding tracing with up to 10 wallets"
+                                            children: "Adding tracing with up to 10 wallets for free!"
                                         })
                                     })
                                 ]
