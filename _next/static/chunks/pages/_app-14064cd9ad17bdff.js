@@ -926,17 +926,7 @@
                                         animated: [(0, L.aa)("y", "1rem", 0, 0)],
                                         children: [(0, a.jsx)(U, {}), (0, a.jsx)("span", {
                                             className: $.bV,
-                                            children: "Telegram"
-                                        })]
-                                    }), (0, a.jsxs)(L.fS, {
-                                        as: "a",
-                                        href: "https://github.com/arwes/arwes",
-                                        target: "github",
-                                        className: (0, L.cx)($.pC, ev, eb),
-                                        animated: [(0, L.aa)("y", "1rem", 0, 0)],
-                                        children: [(0, a.jsx)(G, {}), (0, a.jsx)("span", {
-                                            className: $.bV,
-                                            children: "GitHub"
+                                            children: ""
                                         })]
                                     }),  (0, a.jsxs)(L.fS, {
                                         as: "a",
@@ -946,7 +936,7 @@
                                         animated: [(0, L.aa)("y", "1rem", 0, 0)],
                                         children: [(0, a.jsx)(Y, {}), (0, a.jsx)("span", {
                                             className: $.bV,
-                                            children: "Twitter"
+                                            children: ""
                                         })]
                                     })]
                                 })
@@ -976,23 +966,23 @@
                                         onLeft: () => s("/"),
                                         children: "About"
                                     }), (0, a.jsx)(eS, {
-                                        href: "",
+                                        href: "https://t.me/traceri0portal",
                                         active: n.startsWith(""),
                                         animated: (0, L.aa)("x", "1rem", 0),
                                         onClose: l,
-                                        children: ""
+                                        children: "Telegram Portal"
+                                    }),(0, a.jsx)(eS, {
+                                        href: "https://t.me/tracer_solana_bot",
+                                        active: n.startsWith(""),
+                                        animated: (0, L.aa)("x", "1rem", 0),
+                                        onClose: l,
+                                        children: "Telegram Bot Chat"
                                     }), (0, a.jsx)(eS, {
-                                        href: "",
+                                        href: "https://x.com/traceri0?s=21",
                                         active: n.startsWith(""),
                                         animated: (0, L.aa)("x", "1rem", 0),
                                         onClose: l,
-                                        children: ""
-                                    }), (0, a.jsx)(eS, {
-                                        href: "",
-                                        active: n.startsWith(""),
-                                        animated: (0, L.aa)("x", "1rem", 0),
-                                        onClose: l,
-                                        children: ""
+                                        children: "Twitter"
                                     })]
                                 }), (0, a.jsxs)(L.LH, {
                                     condition: () => "/docs" !== o,
@@ -1006,23 +996,23 @@
                                         onRight: () => s("/docs"),
                                         children: "About"
                                     }), (0, a.jsx)(eS, {
-                                        href: "/",
+                                        href: "https://t.me/traceri0portal",
                                         active: n.startsWith("/"),
                                         animated: (0, L.aa)("x", "-1rem", 0),
                                         onClose: l,
-                                        children: ""
+                                        children: "Telegram Portal"
                                     }), (0, a.jsx)(eS, {
-                                        href: "/",
+                                        href: "https://t.me/tracer_solana_bot",
                                         active: n.startsWith("/"),
                                         animated: (0, L.aa)("x", "-1rem", 0),
                                         onClose: l,
-                                        children: ""
+                                        children: "Telegram Bot Chat"
                                     }), (0, a.jsx)(eS, {
-                                        href: "",
+                                        href: "https://x.com/traceri0?s=21",
                                         active: n.startsWith(""),
                                         animated: (0, L.aa)("x", "-1rem", 0),
                                         onClose: l,
-                                        children: ""
+                                        children: "Twitter"
                                     })]
                                 })]
                             })
@@ -1159,18 +1149,7 @@
                                                 children: (0, a.jsx)(U, {})
                                             })
                                         })
-                                    }), (0, a.jsx)(L.LH, {
-                                        children: (0, a.jsx)(N.sN, {
-                                            className: eC,
-                                            animated: p,
-                                            children: (0, a.jsx)("a", {
-                                                href: "https://github.com/Slendergamer33",
-                                                target: "github",
-                                                title: "Go to GitHub",
-                                                children: (0, a.jsx)(G, {})
-                                            })
-                                        })
-                                    }), (0, a.jsx)(L.LH, {
+                                    }),,  (0, a.jsx)(L.LH, {
                                         children: (0, a.jsx)(N.sN, {
                                             className: eC,
                                             animated: p,
@@ -1544,10 +1523,6 @@
                                     media: "(max-width:767px)",
                                     srcSet: "/assets/images/background-small.webp",
                                     type: "image/webp"
-                                }), (0, $.jsx)("img", {
-                                    className: "_1hhzp0i2",
-                                    src: "/assets/images/background-small.jpg",
-                                    alt: "Background"
                                 })]
                             })
                         }), (0, $.jsx)(_.LH, {
