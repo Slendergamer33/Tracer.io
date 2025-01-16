@@ -1149,9 +1149,7 @@
                                                 children: (0, a.jsx)(U, {})
                                             })
                                         })
-                                    }), (0, a.jsxs)(N.v2, {
-                                    className: $.$6,
-                                    children: [(0, a.jsx)(L.LH, {
+                                    }), (0, a.jsx)(L.LH, {
                                         children: (0, a.jsx)(N.sN, {
                                             className: eC,
                                             animated: p,
