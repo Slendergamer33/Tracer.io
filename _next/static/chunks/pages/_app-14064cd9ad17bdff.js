@@ -920,33 +920,33 @@
                                     className: "czken66",
                                     children: [(0, a.jsxs)(L.fS, {
                                         as: "a",
-                                        href: "https://t.me/traceri0portal",
-                                        target: "Telegram Portal",
+                                        href: "https://t.me/tracer.io",
+                                        target: "Telegram",
                                         className: (0, L.cx)($.pC, ev, eb),
                                         animated: [(0, L.aa)("y", "1rem", 0, 0)],
                                         children: [(0, a.jsx)(U, {}), (0, a.jsx)("span", {
                                             className: $.bV,
-                                            children: ""
+                                            children: "Telegram"
                                         })]
                                     }), (0, a.jsxs)(L.fS, {
                                         as: "a",
-                                        href: "https://t.me/tracer_solana_bot",
-                                        target: "Telegram Bot Chat",
+                                        href: "https://github.com/arwes/arwes",
+                                        target: "github",
                                         className: (0, L.cx)($.pC, ev, eb),
                                         animated: [(0, L.aa)("y", "1rem", 0, 0)],
                                         children: [(0, a.jsx)(G, {}), (0, a.jsx)("span", {
                                             className: $.bV,
-                                            children: ""
+                                            children: "GitHub"
                                         })]
                                     }),  (0, a.jsxs)(L.fS, {
                                         as: "a",
                                         href: "https://x.com/traceri0?s=21",
-                                        target: "Twitter",
+                                        target: "twitter",
                                         className: (0, L.cx)($.pC, ev, eb),
                                         animated: [(0, L.aa)("y", "1rem", 0, 0)],
                                         children: [(0, a.jsx)(Y, {}), (0, a.jsx)("span", {
                                             className: $.bV,
-                                            children: ""
+                                            children: "Twitter"
                                         })]
                                     })]
                                 })
@@ -980,13 +980,19 @@
                                         active: n.startsWith(""),
                                         animated: (0, L.aa)("x", "1rem", 0),
                                         onClose: l,
-                                        children: "Telegram"
+                                        children: ""
                                     }), (0, a.jsx)(eS, {
                                         href: "",
                                         active: n.startsWith(""),
                                         animated: (0, L.aa)("x", "1rem", 0),
                                         onClose: l,
-                                        children: "Twitter"
+                                        children: ""
+                                    }), (0, a.jsx)(eS, {
+                                        href: "",
+                                        active: n.startsWith(""),
+                                        animated: (0, L.aa)("x", "1rem", 0),
+                                        onClose: l,
+                                        children: ""
                                     })]
                                 }), (0, a.jsxs)(L.LH, {
                                     condition: () => "/docs" !== o,
@@ -1000,23 +1006,23 @@
                                         onRight: () => s("/docs"),
                                         children: "About"
                                     }), (0, a.jsx)(eS, {
-                                        href: "https://t.me/traceri0portal",
+                                        href: "/",
                                         active: n.startsWith("/"),
                                         animated: (0, L.aa)("x", "-1rem", 0),
                                         onClose: l,
-                                        children: "Telegram Portal"
+                                        children: ""
                                     }), (0, a.jsx)(eS, {
-                                        href: "https://t.me/tracer_the_bot",
+                                        href: "/",
                                         active: n.startsWith("/"),
                                         animated: (0, L.aa)("x", "-1rem", 0),
                                         onClose: l,
-                                        children: "Telegram Bot Chat"
+                                        children: ""
                                     }), (0, a.jsx)(eS, {
-                                        href: "https://x.com/traceri0?s=21",
+                                        href: "",
                                         active: n.startsWith(""),
                                         animated: (0, L.aa)("x", "-1rem", 0),
                                         onClose: l,
-                                        children: "Twitter"
+                                        children: ""
                                     })]
                                 })]
                             })
@@ -1147,23 +1153,24 @@
                                             className: eC,
                                             animated: p,
                                             children: (0, a.jsx)("a", {
-                                                href: "https://t.me/traceri0portal",
+                                                href: "https://t.me/tracerio",
                                                 target: "Telegram",
-                                                title: "Telegram Portal",
+                                                title: "Telegram",
                                                 children: (0, a.jsx)(U, {})
                                             })
                                         })
-                                    }),(0, a.jsx)(L.LH, {
+                                    }), (0, a.jsx)(L.LH, {
                                         children: (0, a.jsx)(N.sN, {
                                             className: eC,
                                             animated: p,
                                             children: (0, a.jsx)("a", {
-                                                href: "https://x.com/tracer_solana_portal",
-                                                target: "twitter",
-                                                title: "Telegram Bot Chat",
-                                                children: (0, a.jsx)(Y, {})
+                                                href: "https://github.com/Slendergamer33",
+                                                target: "github",
+                                                title: "Go to GitHub",
+                                                children: (0, a.jsx)(G, {})
                                             })
-                                        }), (0, a.jsx)(L.LH, {
+                                        })
+                                    }), (0, a.jsx)(L.LH, {
                                         children: (0, a.jsx)(N.sN, {
                                             className: eC,
                                             animated: p,
@@ -1537,6 +1544,10 @@
                                     media: "(max-width:767px)",
                                     srcSet: "/assets/images/background-small.webp",
                                     type: "image/webp"
+                                }), (0, $.jsx)("img", {
+                                    className: "_1hhzp0i2",
+                                    src: "/assets/images/background-small.jpg",
+                                    alt: "Background"
                                 })]
                             })
                         }), (0, $.jsx)(_.LH, {
